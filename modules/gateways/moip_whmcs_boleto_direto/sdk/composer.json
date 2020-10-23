@@ -1,0 +1,5 @@
+{
+    "require": {
+        "moip/moip-sdk-php": "^2.0"
+    }
+}
